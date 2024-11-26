@@ -1,43 +1,9 @@
 header {
-    background-image: url("#");
+    background-image: url("img_banner");
     background-size: cover;
     height: 100px;
 }
 
-.class-logo {
-    width: #px;
-    height #px;
-}
 
-.class-?{
-    ajeitar cada botão;
-}
 
-div {
-    color: black;
-    font-family: monospace
-    font-size: ;
-}
-
-main {
-    background-color: #f0f6f0;
-}
-
-#id-Apresentação {
-    font-family: ;
-    font-size: ;
-}
-
-#id-Objetivos {
-    font-family: ;
-    font-size: ;
-}
-
-#id-Contato {
-    width: ;
-    height: ;
-    
-}
-
-sei que  aqui a gente vai ter que usar aqueles codigos mais especificos de css tipo  css pai css filho e os caralho mas 
-fazemos isso na sala beijos 
+ 
