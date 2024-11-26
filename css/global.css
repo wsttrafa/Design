@@ -1,8 +1,12 @@
 nav {
     background-image: url("img_banner.png");
+}
+
+header {
     max-width: 100%;
 }
 
-
-
+main {
+    max-width: 100%;
+}
  
