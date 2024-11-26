@@ -1,5 +1,6 @@
 nav {
     background-image: url("img_banner.png");
+
 }
 
 header {
@@ -8,5 +9,6 @@ header {
 
 main {
     max-width: 100%;
+    background-color: #f0f6f0;
 }
  
