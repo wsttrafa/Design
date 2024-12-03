@@ -11,4 +11,14 @@ main {
     max-width: 100%;
     background-color: #f0f6f0;
 }
- 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+  img {
+    max-width: 100%;
+    height: auto;
+}
