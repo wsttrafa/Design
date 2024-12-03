@@ -16,10 +16,8 @@ main {
     background-color: #f0f6f0;
 }
     
-
-.botao img {
+.ul img{
     max-width: 10px;
-    height: 10px;
-
+    max-height: 10px;
 }
 
