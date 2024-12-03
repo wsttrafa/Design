@@ -14,16 +14,6 @@ main {
 }
     
 
-.nav-container {
-    position: relative;
-    width: 100%;
-}
-  
-.imagem-fundo {
-    width: 100%;
-    height: auto;
-}
-
 .botao {
     position: absolute;
     transition: transform 0.5s ease-in-out;
