@@ -3,7 +3,8 @@ nav {
     background-size: cover;
     max-width: 100%;
     position:sticky;
-    top=0;
+    top:0;
+    height: 300px;
 }
 
 header {
@@ -11,7 +12,7 @@ header {
 }
 
 main {
-    max-width: 100%
+    max-width: 100%;
     background-color: #f0f6f0;
 }
     
