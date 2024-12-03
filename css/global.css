@@ -26,8 +26,7 @@ main {
 
 .botao {
     position: absolute;
-    position: relative;
-  transition: transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
 }
 
 .botao:nth-child(2) {
