@@ -26,4 +26,21 @@ main {
 
 .botao {
     position: absolute;
+    position: relative;
+  transition: transform 0.5s ease-in-out;
 }
+
+.botao:nth-child(2) {
+    top: 20%; 
+    left: 10%;
+}
+
+.botao:nth-child(3) {
+    top: 40%; 
+    left: 50%;
+}  
+
+.botao:nth-child(4) {
+    top: 60%; 
+    left: 80%;
+}  
