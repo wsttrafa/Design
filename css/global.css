@@ -13,6 +13,17 @@ main {
     background-color: #f0f6f0;
 }
     
-.botao1 {
-    
+
+.nav-container {
+    position: relative;
+    width: 100%;
+}
+  
+.imagem-fundo {
+    width: 100%;
+    height: auto;
+}
+
+.botao {
+    position: absolute;
 }
