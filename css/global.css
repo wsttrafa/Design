@@ -9,6 +9,10 @@ header {
 }
 
 main {
-    max-width: 50%
+    max-width: 100%
     background-color: #f0f6f0;
+}
+
+#contato {
+    width: 100px;
 }
