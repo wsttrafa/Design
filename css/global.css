@@ -2,7 +2,8 @@ nav {
     background-image: url("./img/banner1.png");
     background-size: cover;
     max-width: 100%;
-    position:relative
+    position:sticky;
+    top=0;
 }
 
 header {
